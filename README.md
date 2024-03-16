@@ -1,8 +1,3 @@
-# Soft2201 - Assignment 2
-
-
-#### SID: 510502137 - 25/09/2022
-
 ### Starting the program:
 
 The game can be run by simply using 'gradle run' in the terminal inside the PoolGame directory.
